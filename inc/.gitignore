@@ -1,0 +1,16 @@
+
+# Melindungi konfigurasi database
+config.php
+.env
+.env.*
+
+# File sementara
+*.log
+*.tmp
+
+# File sistem
+.DS_Store
+Thumbs.db
+
+# Folder cache
+.cache/
